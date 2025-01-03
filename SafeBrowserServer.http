@@ -1,0 +1,6 @@
+@SafeBrowserServer_HostAddress = http://localhost:5077
+
+GET {{SafeBrowserServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
